@@ -21,19 +21,6 @@ The goal is to prevent Terraform state corruption, support collaboration, and im
 
 ---
 
-## Stack Used
-
-- Terraform
-- AWS S3
-- Git
-- GitHub
-- VS Code
-- Remote State Management
-- State Locking
-- Versioning
-- Validation
-- DevOps
-# Architecture
 
 ```text
 GitHub
